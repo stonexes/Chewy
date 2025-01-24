@@ -1,0 +1,8 @@
+.pic{
+
+    margin: 30px;
+    background-image:url('/images/chewy_image.avif');    
+    height: 300px;
+    border-radius: 15px;
+
+}
