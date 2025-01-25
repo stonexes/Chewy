@@ -2,7 +2,10 @@
     display:flex;
     justify-content: space-around;
     padding: 20px;
-    margin:  28px ;
+    margin-left:  29px ;
+    margin-right: 29px;
+    margin-bottom: 29px;
+    
     /* width:100%; */
     border-radius: 15px;
 }
