@@ -1,0 +1,8 @@
+.below_pic{
+    display:flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin:  28px ;
+    /* width:100%; */
+    border-radius: 15px;
+}
