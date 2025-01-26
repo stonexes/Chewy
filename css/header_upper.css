@@ -2,6 +2,9 @@
     /* border: 1px solid black; */
     padding: 5px;
     background-color: #1c49c2;
+    /* color: #ffffff; */
+    
+    
  }
  .upper{
    
@@ -9,21 +12,67 @@
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    border: 2px solid rgb(255, 230, 0);
+    /* border: 2px solid rgb(255, 230, 0); */
     padding: 5px;
    
 }
-.sbox input[type='text']{
+ .upper_divs {
+   position: relative;
+   display: flex;
+   padding: 2px;
+   align-items: center;
+
+}
+.c1_p_icon i{
+   color: #1c49c2;
+   padding:5px;
+   border-radius: 70px;
+   background-color: #ffffff;
+
+}
+.upper_divs div{
+   padding: 2px;
+
+}
+.sbox{
+   position: relative;
+   display: flex;
+   /* justify-content: space-between; */
+   align-items: center;
+   box-shadow: #c21c1c;
+   
+}
+.sbox:hover{
+   box-shadow: #c21c1c;
+}
+
+.sbox input{
    padding: 5px;
    color:#1c49c2;
    width:15vw;
    height:5vh;
    font-size: 15px;
+   border-radius: 30px;
+   border:none;
+   /* width: 100%; */
+
+}
+.sbox i{
+   color:red;
+
+}
+
+.fa-searchengin{
+   /* color: #1c49c2; */
    
 }
-.upper div:hover {
+
+/* .upper div:hover {
    cursor: pointer;
    background-color: rgb(27, 39, 49);
    box-shadow: 0px 0px 5px 5px color crimson;
    
+} */
+.chewy_logo img{
+   width:100px;
 }

@@ -2,13 +2,13 @@
     margin:0%;
     padding: 0%;
     box-sizing: border-box;
-    border: 1px solid black;
-    color: #fafafa;
+    /* border: 1px solid black; */
+    color: #000000;
     font-family: Work Sans, Verdana, Lucida Sans, Helvetica Neue, Arial, Roboto, sans-serif;
 
 }
 
 body{
     
-    background-color: rgb(43, 43, 25);
+    background-color: rgb(255, 255, 255);
 }
