@@ -6,10 +6,11 @@
     flex-wrap: wrap;
     /* border: 2px solid rgb(253, 2, 2); */
     padding: 5px;
+    
 }
 .lower div:hover{
     cursor: pointer;
-    background-color: aqua;
+    /* background-color: aqua; */
     
 }
 .lower_divs{
@@ -19,4 +20,26 @@
 }
 .lower_divs div{
     padding: 2px;
+}
+
+.below_navbar {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+
+}
+.below_navbar div {
+    padding: 5px;
+ 
+}
+.bn1{
+    font-size: small;
+    font-weight: bold;
+}
+.bn2{
+    font-size: small;
+    border-left: 1px solid gray;
+   
 }
