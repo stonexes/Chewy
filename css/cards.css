@@ -4,6 +4,7 @@ display: flex;
 justify-content: space-around;
 
 }
+
 .card_image {
     
     background-image: url('/images/card_image.avif');
@@ -12,21 +13,26 @@ justify-content: space-around;
     background-size: contain;
     background-repeat: no-repeat;
 }
+
 .cards{
     margin: 5px;
     
 }
+
 .card_text{
     /* margin-top:5px;
     margin-bottom:5px; */
     /* align-content: space-around; */
 
+
 }
+
 .card_text h3{
  padding-top:7px; 
  padding-bottom:7px; 
    
 }
+
 .card_text p{
     padding-top:5px; 
     padding-bottom:5px;
